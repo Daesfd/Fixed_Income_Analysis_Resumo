@@ -40,7 +40,14 @@
   Tipos de Coupon Rates:
 
     A) Zero-Coupon Bonds: Títulos sem pagamentos de juros periódicos. Juros é pago na data de maturação.
+    
     B) Step-Up Notes: Títulos com Coupon Rate Crescentes.
+    
     C) Deferred Coupon Bonds: Título em que o pagamento de juros ocorre apenas em uma parte da sua totalidade.
+    
     D) Floating-Rate Securities: Títulos com Coupon Rate flutuantes
-  
+    
+    E) Accrued Intesterest: Issuers não pagam juros todos os dias, mas, geralmente, semestralmente ou anualmente.
+                            Assim, ao vender um título entre as datas de pagamento, o issuer abre mão de receber os juros do título.
+                            O montante de juros pago é o Accrued Interest e há contratos para resolver isso.
+                            Se o buyer paga um valor maior ao issuer por conta disso, chama-se full price.
